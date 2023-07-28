@@ -1,0 +1,24 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "For interfacing with API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hannah-Aldor/lightBikes.git"
+  },
+  "keywords": [
+    "light",
+    "bikes"
+  ],
+  "author": "Hannah Aldor",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Hannah-Aldor/lightBikes/issues"
+  },
+  "homepage": "https://github.com/Hannah-Aldor/lightBikes#readme"
+}
